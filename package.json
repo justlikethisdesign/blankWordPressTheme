@@ -1,0 +1,57 @@
+{
+  "name": "BLANKDOMAINNAME",
+  "author": "Robert Marshall",
+  "authorUri": "http://www.justlikethis.co.uk",
+  "version": "0.0.01",
+  "description": "",
+  "homepage": "",
+  "keywords": [
+    "accessibility",
+    "microformat",
+    "schema",
+    "indiepress",
+    "studio",
+    "post-formats",
+    "blog",
+    "infinite scroll",
+    "card"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justlikethisdesign/blankWordPressTheme"
+  },
+  "license": "CC-BY-SA-3.0",
+  "licenseUri": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "dependencies": {
+    "dev-ip": "^1.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/polyfill": "^7.0.0",
+    "@babel/preset-env": "^7.1.0",
+    "browser-sync": "^2.11.1",
+    "file-exists": "^5.0.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-bump": "latest",
+    "gulp-concat": "^2.5.2",
+    "gulp-filter": "^4.0.0",
+    "gulp-fs": "^0.0.2",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-line-ending-corrector": "^1.0.1",
+    "gulp-merge-media-queries": "^0.2.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sort": "^2.0.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-strip-css-comments": "^2.0.0",
+    "gulp-uglify": "^1.5.3",
+    "gulp-uglifycss": "^1.0.6",
+    "gulp-wp-pot": "^1.2.2",
+    "pump": "latest",
+    "require-dir": "^1.1.0",
+    "yargs": "latest"
+  }
+}
