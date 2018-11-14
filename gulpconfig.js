@@ -57,7 +57,7 @@ module.exports = {
 
 
     browsersync: {
-        proxy: 'BLANKDOMAINNAMEandstuff.test', // Project URL.
+        proxy: 'blanktheme.test', // Project URL.
         open: "external", // Allow external connections
         browser: "chrome", // Open the site in Chrome
         injectChanges: true, // Inject CSS changes on change
